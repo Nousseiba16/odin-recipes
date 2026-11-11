@@ -1,27 +1,20 @@
-# odin-recipes
+# Odin Recipes
 
-What the symbols mean (Markdown)
-You write It shows on GitHub as
+A basic recipe website built with HTML only, as part of
+The Odin Project's Foundations course.
 
-# Title Big title
+## About
 
-## Section Smaller section heading
+The site has a main index page that links to several recipe pages.
+Each recipe includes an image, a short description, an ingredient
+list, and step-by-step instructions.
 
-- item Bullet point
-  Blank line New paragraph
-  How to create it (locally, not on GitHub)
+Styling with CSS will be added in a later part of the course.
 
-Inside your odin-recipes folder:
+## Skills demonstrated
 
-touch README.md
-code README.md
-
-Write your text, save with Ctrl + S, then:
-
-git add README.md
-git commit -m "Add README"
-git push
-
-Then refresh your repo page on GitHub. The README appears under the file list. Create it locally like this, not on GitHub’s website, which is exactly the trap the lesson warns about.
-
-Tip: when you finish the project, come back and add a short “What I learned” section, a few lines about what was hard and what you’d do differently. The lesson suggests this, and it reads well to recruiters.
+- Structuring web pages with HTML boilerplate
+- Using headings, paragraphs, and lists (ordered and unordered)
+- Linking between pages with relative paths
+- Adding images
+- Using Git and GitHub to track and publish my work
